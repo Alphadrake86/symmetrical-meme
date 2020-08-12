@@ -8,7 +8,7 @@ CPW213 ASP.NET MVC Core website with some bugs and needs refactoring
 - Refactor all of the database code in the ```ProductsController``` into a ```ProductDb``` class
 - Create the database using code first migrations and a database context class
 - Ensure all CRUD pages work correctly
-    - [ ] Create
-    - [ ] Index (List/Select)
-    - [ ] Update
-    - [ ] Delete
+    - [x] Create
+    - [x] Index (List/Select)
+    - [x] Update
+    - [x] Delete
